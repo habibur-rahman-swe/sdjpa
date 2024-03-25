@@ -18,7 +18,9 @@ public class Book {
 	private String isbn;
 	private String publisher;
 
-	
+	public Book() {
+		super();
+	}
 	
 	public Book(String title, String isbn, String publisher) {
 		super();
@@ -26,12 +28,6 @@ public class Book {
 		this.isbn = isbn;
 		this.publisher = publisher;
 	}
-
-	public Book() {
-		super();
-	}
-
-	
 	
 	@Override
 	public int hashCode() {
