@@ -15,4 +15,10 @@
 	20 - What is relational management system
 	21 - History
 	22 - Relational Database Management System
+	24 - Initialize the database(bookdb)
+# Day 3
+## Spring Boot Test
+	25 - Introduction
+	26 - Spring Boot Test
+	27 - Spring Boot Jpa Test Splice
 	
